@@ -16,3 +16,5 @@ insert modify
 
 checkout dev2
 
+checkout rebase-bugfix
+
