@@ -18,3 +18,5 @@ checkout dev2
 
 checkout rebase-bugfix
 
+checkout rebase-bugfix two
+
