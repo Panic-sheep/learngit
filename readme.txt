@@ -20,3 +20,5 @@ checkout rebase-bugfix
 
 checkout rebase-bugfix two
 
+checkout rebase-bugfix three
+
